@@ -30,6 +30,7 @@ const oklchToHex = str => {
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://kuntal-gsoc-blog.vercel.app/',
   base: '/',
   trailingSlash: 'always',
   integrations: [

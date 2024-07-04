@@ -74,5 +74,5 @@ export const profileConfig: ProfileConfig = {
 export const licenseConfig: LicenseConfig = {
   enable: true,
   name: 'Kuntal Bar',
-  url: '',
+  url: 'https://github.com/saicaca/fuwari',
 }
