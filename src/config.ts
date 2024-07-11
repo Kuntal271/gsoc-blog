@@ -35,7 +35,7 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.About,
     {
       name: 'Gitlab',
-      url: 'https://github.com/saicaca/fuwari', // Internal links should not include the base path, as it is automatically added
+      url: 'https://invent.kde.org/kuntalhere/labplot/-/tree/work/gsoc3d?ref_type=heads', // Internal links should not include the base path, as it is automatically added
       external: true, // Show an external link icon and will open in a new tab
     },
   ],
@@ -56,17 +56,12 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/Kuntal271',
     },
     {
       name: 'LinkedIn',
       icon: 'fa6-brands:linkedin',
-      url: 'https://github.com/saicaca/fuwari',
-    },
-    {
-      name: 'GitLab',
-      icon: 'fa6-brands:gitlab',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://www.linkedin.com/in/kuntal-bar-15586b2b7/',
     },
   ],
 }
@@ -74,5 +69,5 @@ export const profileConfig: ProfileConfig = {
 export const licenseConfig: LicenseConfig = {
   enable: true,
   name: 'Kuntal Bar',
-  url: 'https://github.com/saicaca/fuwari',
+  url: 'https://github.com/Kuntal271',
 }
