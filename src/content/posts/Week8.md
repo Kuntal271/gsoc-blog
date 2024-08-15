@@ -1,6 +1,6 @@
 ---
 title: Week 8
-published: 2024-08-12
+published: 2024-08-01
 tags: [GSOC]
 category: GSOC
 draft: false
